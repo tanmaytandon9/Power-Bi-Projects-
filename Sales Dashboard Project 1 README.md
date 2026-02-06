@@ -15,4 +15,5 @@ The dashboard includes dynamic slicers, KPI cards, and multiple visualizations t
 3. Refresh the data source if needed.  
 4. Explore the dashboard using the slicers and visuals.
 ---
-<img width="1914" height="1045" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/54d73b2d-46b3-4aea-bae3-56c36e2bc967" />
+<img width="1927" height="1131" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/6f39eaf5-0468-4881-877a-e211c0ad1d4a" />
+
