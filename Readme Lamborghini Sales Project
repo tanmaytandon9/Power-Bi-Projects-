@@ -1,0 +1,26 @@
+
+# 🚗 Lamborghini Sales Report Dashboard
+
+This repository contains a Power BI dashboard that visualizes key insights from Lamborghini’s global sales data. The report highlights model performance, regional distribution, horsepower trends, and detailed vehicle attributes.
+
+---
+
+## 📊 Dashboard Overview
+
+The **Lamborghini Sales Report** provides an interactive view of sales metrics across multiple models and regions. It includes:
+
+- **Total Sales Volume:** **141,000 units**
+- **Average Horsepower:** **718.28 HP**
+- **Filters:**  
+  - Color  
+  - Fuel Type  
+  - Model  
+
+---
+
+## 📁 Repository Contents
+
+- Power BI report file (`.pbix`)
+- Supporting datasets (if included)
+- Documentation and visuals
+
