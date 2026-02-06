@@ -1,5 +1,4 @@
 # Power-Bi-Projects-
-Here’s a polished, portfolio‑ready **README.md** for your Power BI project. I’ve written it to showcase the dashboard clearly and professionally, using the details visible in your report.
 
 # 📊 Sales Report Dashboard – Power BI Project
 
